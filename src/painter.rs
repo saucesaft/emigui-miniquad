@@ -1,4 +1,4 @@
-use emigui::{Mesh, Texture};
+use egui::{Mesh, Texture};
 
 use miniquad::{
     Bindings, BlendFactor, BlendValue, Buffer, BufferLayout, BufferType, Context, Equation,
